@@ -1,0 +1,14 @@
+package user;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class UserEapServicesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(UserEapServicesApplication.class, args);
+	}
+
+}
+
